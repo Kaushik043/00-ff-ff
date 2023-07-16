@@ -1,0 +1,18 @@
+body{
+    background-color:#fff;
+}
+.box{
+    width:700px;
+    height:350px;
+    margin:100px auto;
+    color:#f00;
+    float:left;
+}
+.box h1,p{
+    margin:20px 40px;
+    float:left;
+    text-shadow:2px 2px 2px #000;
+}
+.box p{
+    font-size:25px;
+}
